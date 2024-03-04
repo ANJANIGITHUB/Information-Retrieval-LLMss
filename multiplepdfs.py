@@ -13,10 +13,10 @@ from PyPDF2 import PdfReader
 from streamlit_extras.add_vertical_space import add_vertical_space
 import re
 import pandas as pd
+import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.probability import FreqDist
-import nltk
 from nltk.translate.bleu_score import sentence_bleu
 #from sklearn.metrics import f1_score
 from nltk.corpus import stopwords
