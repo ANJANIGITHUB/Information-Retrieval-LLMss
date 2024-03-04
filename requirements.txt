@@ -10,3 +10,4 @@ streamlit_extras
 spacy
 google-generativeai
 langchain_google_genai
+nltk==3.5
