@@ -12,3 +12,4 @@ google-generativeai
 langchain_google_genai
 nltk==3.5
 wordcloud==1.8.1
+en-core-web-sm==3.0.0
